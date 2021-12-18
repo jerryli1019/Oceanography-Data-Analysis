@@ -2,4 +2,4 @@
 
 Authors: Cameron Wang, Yi Li, Weiyue Li, and Tonoya Ahmed.
 
-Topic: CalCOFI Data Visualization Experience: Physical Oceanography
+Topic: [CalCOFI](https://calcofi.org/) Data Visualization Experience: Physical Oceanography
